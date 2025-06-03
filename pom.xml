@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https:https://maven.pkg.github.com/alamfauzan/CI-CD-Java-Maven</url>
+      <url>https://maven.pkg.github.com/alamfauzan/CI-CD-Java-Maven</url>
     </repository>
   </distributionManagement>
   
